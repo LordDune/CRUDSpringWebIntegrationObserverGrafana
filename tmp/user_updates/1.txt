@@ -1,0 +1,2 @@
+User{id=1, firstName='Сергей', lastName='Стяжкин'}
+User{id=1, firstName='Сергей', lastName='Иванов'} 2024-03-01T21:30:27.665151600
